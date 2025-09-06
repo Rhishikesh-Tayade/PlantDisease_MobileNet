@@ -1,0 +1,4 @@
+opendatasets
+tensorflow
+matplotlib
+numpy
